@@ -1,4 +1,5 @@
-archbios
+Archbios
+
 Fucking French Archlinux Custom Install
 
 Before continuing : read this example for prepare the disk  (dos mode)
